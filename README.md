@@ -21,4 +21,5 @@
 * 完整代码请加QQ：[3575667582]
 ```
 如果对您有帮助，点击右上角⭐Star⭐关注 ，感谢支持开源！
-![image](​ ​https://github.com/gitWanggg/hospitalbishe/blob/main/img/01.png​​)
+
+![image](​https://github.com/gitWanggg/hospitalbishe/blob/main/img/01.png​​)
